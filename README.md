@@ -5,7 +5,7 @@ We are now looking for many candidates to build up a new .NET team for challengi
 Key job functions:
 
 <li>
-<ul>•	Develop web apps in ASP.NET, MVC 4, 5</ul>
+<ul>•	<b>Develop</b> <i>web</i> <u>apps</u> in ASP.NET, MVC 4, 5</ul>
 <ul>•	Develop windows services, windows app</ul>
 <ul>•	Maintain existing projects</ul>
 </li>
