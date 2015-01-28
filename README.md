@@ -4,9 +4,11 @@ We are now looking for many candidates to build up a new .NET team for challengi
 
 Key job functions:
 
-•	Develop web apps in ASP.NET, MVC 4, 5
-•	Develop windows services, windows app
-•	Maintain existing projects
+<li>
+<ul>•	Develop web apps in ASP.NET, MVC 4, 5</ul>
+<ul>•	Develop windows services, windows app</ul>
+<ul>•	Maintain existing projects</ul>
+</li>
 
 <h2>Job Requirement</h2>
 •	At least 4 years of .NET (4, 4.5, 5) development in Windows platform.
